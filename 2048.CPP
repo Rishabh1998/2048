@@ -26,7 +26,9 @@ void hsc()  //TO CALCULATE & STORE HIGH SCORE
 }
 
 void change();
+
 void generate();
+
 void clrsc()
 {
 		itoa(sc,out,10);
