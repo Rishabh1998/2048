@@ -24,7 +24,6 @@ void hsc()  //TO CALCULATE & STORE HIGH SCORE
 	outtextxy(500,150,out);
 	hs=sc;
 }
-
 void change();
 void generate();
 void clrsc()
