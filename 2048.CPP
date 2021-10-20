@@ -318,6 +318,8 @@ play(){
 }
 }
 }
+
+//main function
 void main()
 {
 	clrscr();
